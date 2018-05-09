@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="countDownTimerButton">
+        <attr name="beforeText" format="string"></attr>
+        <attr name="countTimeText" format="string"/>
+        <attr name="time" format="float"/>
+    </declare-styleable>
+
+</resources>
